@@ -1,5 +1,17 @@
 # Temperature Dataset
 
+## Dataset
+
+[Berkeley Earth Global Land Temperature](https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/global-land-TAVG-Trend.txt)
+
+## Historical Events
+
+[Dalton Minimum 1790 - 1830](https://en.wikipedia.org/wiki/Dalton_Minimum)
+
+[Capture of the Dutch Fleet - 1795](https://en.wikipedia.org/wiki/Dalton_Minimum)
+
+[Napoleon's Retreat from Moscow - 1812](https://www.youtube.com/watch?v=lNReCCShKJQ)
+
 ## Slope, Derivative, and Acceleration: A Refresher
 
 ## Overview
