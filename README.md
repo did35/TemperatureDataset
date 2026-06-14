@@ -1,20 +1,28 @@
+# Attempt to identify the acceleration or deceleration of modern temperature using the first and second derivative
+
+---
+
 # Temperature Dataset
 
-## Berkeley Earth Dataset
+## 1. Berkeley Earth Dataset
 
 <img width="1800" height="1012" alt="Global Land-temperature-chart" src="https://github.com/user-attachments/assets/125f32be-db42-4f05-abc0-4aee523e6c12" />
 
 
 [Berkeley Earth Global Land Temperature](https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/global-land-TAVG-Trend.txt)
 
-## CET comparaison
+---
+
+## 2. CET comparaison
 
 <img width="3000" height="1800" alt="CET" src="https://github.com/user-attachments/assets/1e4e020a-df2e-4f76-84a2-dbde7dbbe152" />
 
 
 [CET 1659 - 2025](https://www.metoffice.gov.uk/hadobs/hadcet/graphs/ts_meantemp_cet.png)
 
-## Historical Events
+---
+
+## 3. Historical Events
 
 [Maunder Minimum 1645 - 1715](https://en.wikipedia.org/wiki/Maunder_Minimum)
 
@@ -24,7 +32,11 @@
 
 [Napoleon's Retreat from Moscow - 1812](https://www.youtube.com/watch?v=lNReCCShKJQ)
 
-## Slope, Derivative, and Acceleration: A Refresher
+---
+
+# Calculus Refresher
+
+## 4. Slope, Derivative, and Acceleration: A Refresher
 
 ## Overview
 
@@ -39,7 +51,7 @@ Examples:
 
 ---
 
-## 1. Slope
+## a. Slope
 
 Consider a function (replace program by function):
 
@@ -69,7 +81,7 @@ The function increases by 2 units for every 1 unit of x.
 
 ---
 
-## 2. Derivative
+## b. Derivative
 
 The derivative is the instantaneous slope.
 
@@ -99,7 +111,7 @@ Leibniz notation
 
 ---
 
-## 3. Motion Example
+## c. Motion Example
 
 ### Position
 
@@ -152,7 +164,7 @@ m/s²
 
 ---
 
-## 4. Calculus Chain
+## d. Calculus Chain
 
 Position
 ↓ derivative
@@ -172,7 +184,7 @@ s(t) → s'(t) → s''(t)
 
 ---
 
-## 5. Reverse Process
+## e. Reverse Process
 
 Integration reverses differentiation.
 
@@ -190,7 +202,7 @@ a(t) → v(t) → s(t)
 
 ---
 
-## 6. Climate Data Interpretation
+## f. Climate Data Interpretation
 
 Suppose:
 
