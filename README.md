@@ -2,6 +2,9 @@
 
 ## Dataset
 
+<img width="1800" height="1012" alt="Global Land-temperature-chart" src="https://github.com/user-attachments/assets/125f32be-db42-4f05-abc0-4aee523e6c12" />
+
+
 [Berkeley Earth Global Land Temperature](https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/global-land-TAVG-Trend.txt)
 
 ## Historical Events
