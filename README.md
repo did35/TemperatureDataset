@@ -7,6 +7,13 @@
 
 [Berkeley Earth Global Land Temperature](https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/global-land-TAVG-Trend.txt)
 
+## CET comparaison
+
+<img width="3000" height="1800" alt="CET" src="https://github.com/user-attachments/assets/1e4e020a-df2e-4f76-84a2-dbde7dbbe152" />
+
+
+[CET 1659 - 2025](https://www.metoffice.gov.uk/hadobs/hadcet/graphs/ts_meantemp_cet.png)
+
 ## Historical Events
 
 [Dalton Minimum 1790 - 1830](https://en.wikipedia.org/wiki/Dalton_Minimum)
