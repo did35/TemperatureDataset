@@ -1,6 +1,39 @@
-# Attempt to identify the acceleration or deceleration of modern temperature using the first and second derivative
+# Temperature Dataset Analysis
 
----
+## Objective
+
+Investigate whether modern temperature records show
+evidence of acceleration or deceleration by using
+first and second derivative analysis.
+
+## Methodology
+
+1. Collect temperature datasets
+2. Apply moving averages
+3. Calculate first derivative (rate of change)
+4. Calculate second derivative (acceleration)
+5. Compare historical and modern periods
+
+## Datasets
+
+### Berkeley Earth
+### HadCRUT
+### CET
+### UAH (optional)
+
+## Limitations
+
+- Dataset uncertainty
+- Choice of smoothing window
+- Regional versus global datasets
+- Derivative sensitivity to noise
+
+## Future Work
+
+- FastAI forecasting experiments
+- Comparison with ENSO indices
+- Volcanic forcing analysis
+- Solar activity analysis
 
 # Temperature Dataset
 
@@ -280,7 +313,14 @@ This is why derivatives are powerful tools for studying:
 
 ---
 
-## One-Sentence Summary
+## What this project is NOT
+
+This project is not intended to prove or disprove
+anthropogenic climate change.
+
+Its purpose is to explore temperature datasets
+using basic mathematical tools that can be
+understood by anyone with high-school level calculus.
 
 The first derivative tells us how fast something changes.
 
