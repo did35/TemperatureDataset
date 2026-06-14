@@ -61,7 +61,7 @@ first and second derivative analysis.
 
 [Dalton Minimum 1790 - 1830](https://en.wikipedia.org/wiki/Dalton_Minimum)
 
-[Capture of the Dutch Fleet - 1795](https://en.wikipedia.org/wiki/Dalton_Minimum)
+[Capture of the Dutch Fleet - 1795](https://www.youtube.com/watch?v=-9oGZKscpe8)
 
 [Napoleon's Retreat from Moscow - 1812](https://www.youtube.com/watch?v=lNReCCShKJQ)
 
