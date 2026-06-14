@@ -1,6 +1,6 @@
 # Temperature Dataset
 
-## Dataset
+## Berkeley Earth Dataset
 
 <img width="1800" height="1012" alt="Global Land-temperature-chart" src="https://github.com/user-attachments/assets/125f32be-db42-4f05-abc0-4aee523e6c12" />
 
