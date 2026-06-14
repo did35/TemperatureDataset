@@ -16,6 +16,8 @@
 
 ## Historical Events
 
+[Maunder Minimum 1645 - 1715](https://en.wikipedia.org/wiki/Maunder_Minimum)
+
 [Dalton Minimum 1790 - 1830](https://en.wikipedia.org/wiki/Dalton_Minimum)
 
 [Capture of the Dutch Fleet - 1795](https://en.wikipedia.org/wiki/Dalton_Minimum)
